@@ -20,7 +20,7 @@ GEM
       jekyll-sitemap (~> 1.4.0)
       jemoji (~> 0.12)
     colorator (1.1.0)
-    commonmarker (0.23.9)
+    commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
